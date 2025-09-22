@@ -11,11 +11,11 @@
 
 
 # Education
-B.Tech in Mathematics and Computing from IIT Delhi - 2021
-Higher Secondary School : JNV Bundi, Rajasathan - 2017
-Secondary School : JNV, Munger, Bihar - 2015
+1. B.Tech in Mathematics and Computing from IIT Delhi - 2021
+2. Higher Secondary School : JNV Bundi, Rajasathan - 2017
+3. Secondary School : JNV, Munger, Bihar - 2015
 
 # Personal Interest
 ## LocalRCBros
-- Started as personal hobby project of RC Community. Check out details at https://localrcbros.com 
+- Started as personal hobby project of RC Community. Check out details at (https://localrcbros.com)[http://localrcbros.com] 
 
