@@ -1,0 +1,22 @@
+/* Place navigation nicely in left column */
+.side-nav {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.side-nav ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.side-nav li {
+  margin: 0.4rem 0;
+}
+
+.side-nav a {
+  text-decoration: none;
+}
+
+.side-nav a:hover {
+  text-decoration: underline;
+}
