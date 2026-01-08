@@ -1,25 +1,3 @@
-<nav class="side-nav">
-
-### Navigation
-- [Current Focus](#current-focus-2025--present)
-- [Professional Experience](#professional-experience)
-- [Robotics & Autonomous Systems](#independent-robotics--autonomous-systems)
-- [Education](#education)
-- [Academic Projects](#academic-projects-iit-delhi)
-- [Internships](#internships)
-- [Certifications](#certifications--specialized-training)
-- [Leadership](#leadership--activities)
-
-</nav>
-
-Senior AI / ML Engineer · Applied Machine Learning Systems · Robotics & Autonomy  
-IIT Delhi — Mathematics & Computing
-
-This page is a long-form, chronological archive of my work across industry, academics, and independent engineering initiatives.  
-It is intentionally detailed and not a resume replacement.
-
----
-
 ## Current Focus (2025 – Present)
 
 - **Senior AI / ML Engineer — TribolaTech India LLP**  
