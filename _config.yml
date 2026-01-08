@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
+remote_theme: "tedivm/jekyll-theme-portfolio"
+plugins:
+  - jekyll-remote-theme
+
 title: Vivek Muskan
 description: SDE by day, hobbyist by night.
